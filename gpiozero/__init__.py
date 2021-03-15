@@ -89,6 +89,8 @@ from .output_devices import (
     AngularServo,
     RGBLED,
     TonalBuzzer,
+    StepperMotor,
+    BasicStepperMotor
 )
 from .boards import (
     CompositeOutputDevice,
